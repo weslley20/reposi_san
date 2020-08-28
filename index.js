@@ -1,1 +1,3 @@
-alert("oi")
+function btn(){
+    alert("oi")
+}
